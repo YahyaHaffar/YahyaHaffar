@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YahyaHaffar
-- 👀 I’m interested in Datascience
+- 👀 I’m interested in Data Science | Machine Learning
 - 🌱 I’m currently Expanding my knowledge in Datascience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
