@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YahyaHaffar
-- 👀 Interested in Data Science | LLMs | Machine Learning | Data Engineering | Data Analysis
-- 🌱 I'm currently expanding my knowledge of LLMs, Data Science and making exciting projects that can be used in day to day life.
-- 💞️ I’m looking to collaborate on projects that make train/ optimize or make use of AI in expand the range of AI support.
+- 👀 Interested in Data Science |  Machine Learning | LLMs | Software Development
+- 🌱 I'm currently expanding my knowledge Software Development and Data Science and making exciting projects that can be used in day to day life.
+- 💞️ I’m looking to collaborate on projects where I can contribute with my skills in both Data science and Software developmet while expanding my knowledge.
 - 📫 Don't hessitate to Reach out to me on LinkedIn: https://www.linkedin.com/in/yahya-haffar/
 
 <!---
